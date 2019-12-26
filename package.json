@@ -1,0 +1,23 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "CORS and Recipes with vanilla.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahmidAnabi/CORS-and-Recipes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahmidAnabi/CORS-and-Recipes/issues"
+  },
+  "homepage": "https://github.com/FahmidAnabi/CORS-and-Recipes#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "browserslist":["last 1 chrome versions"]
+}
